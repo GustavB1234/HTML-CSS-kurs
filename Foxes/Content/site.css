@@ -1,0 +1,29 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body>header {
+    background-color: #808080;
+    width: 100%;
+    padding: 5px;
+    top: 0;
+    position: fixed;
+}
+
+body>header img {
+    height: 50px;
+    background-color: #e96666;
+}
+
+body>header nav {
+    float: right;
+    margin-right: 20px;
+    background-color: #e96666;
+    padding: 5px;
+}
+
+body>header nav li {
+    float: left;
+    margin-right: 10px;
+    list-style: none;
+}
